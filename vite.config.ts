@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // Ensures assets are linked relatively for GitHub Pages
+  base: '/Luman-s-Invoice-Generator/', // GitHub Pages base path
 });
