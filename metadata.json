@@ -1,0 +1,5 @@
+{
+  "name": "Luman's Invoice Generator",
+  "description": "A mobile-first invoice generator app that recreates the specific Luman's Food Factory invoice style with PDF export functionality.",
+  "requestFramePermissions": []
+}
